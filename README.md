@@ -1,1 +1,1 @@
-#Python iLe Veri Analizine Dair Temel Çalışmalar
+#Python ile Veri Analizine Dair Temel Çalışmalar
